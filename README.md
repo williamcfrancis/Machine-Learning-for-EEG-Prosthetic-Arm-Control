@@ -2,7 +2,7 @@
 
 For a complete report of the project with ablation study and design details, please refer to [report.pdf](https://github.com/williamcfrancis/Grasp-and-Lift-EEG-Detection-using-ML-algorithms/blob/main/Report.pdf)
 
-##Overview
+## Overview
 Certain hand movements like grasping, lifting or replacing an object create unique identifiable artifacts in the EEG signals. Learning these patterns using machine learning techniques open the gates to using them as control inputs for a robotic prosthetic arm. 
 
 We experimented with three data pre processing techniques for EEG signals: 
