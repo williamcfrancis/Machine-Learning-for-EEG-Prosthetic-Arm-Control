@@ -12,17 +12,17 @@ We experimented with three data pre processing techniques for EEG signals:
 
 Further, we experimented with different classification models: 
 
-* Support Vector Machines \
-* Logistic Regression\
-* Random Forest\
-* Linear Discriminant Analysis\
+* Support Vector Machines 
+* Logistic Regression
+* Random Forest
+* Linear Discriminant Analysis
 * Quadratic Discriminant Analysis
 
 We tried 3 different weighted ensembles of these traditional models as well.
 
-* PCA + Random Forests\
-* Linear Discriminant Analysis + Random Forest + Logistic Regression\
-* Linear Discriminant Analysis + Logistic Regression\
+* PCA + Random Forests
+* Linear Discriminant Analysis + Random Forest + Logistic Regression
+* Linear Discriminant Analysis + Logistic Regression
 * Random Forest + Logistic Regression + Quadratic Discriminant Analysis + Linear Discriminant Analysis
 
 And finally, we used a deep learning technique,
