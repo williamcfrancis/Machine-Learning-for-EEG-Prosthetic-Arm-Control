@@ -42,10 +42,10 @@ And finally, a deep learning technique,
 * Convolutional Neural Networks
 
 ## Data
-
-https://user-images.githubusercontent.com/38180831/207253198-36e50b82-1d8b-4ad6-a854-4617df5e9056.mp4
-
 This data contains EEG recordings of subjects performing grasp-and-lift (GAL) trials. In order to collect this data set, 12 subjects performed 10 series of trials where every series contains 30 trials. During every trial, EEG brain signals were recorded from the subjects while they performed grasp-and-lift operations. The training set contains the first 8 series for each subject. The test set contains the 9th and 10th series. For each Grasp and Lift series, there are 6 events that take place in this order: HandStart, FirstDigitTouch, BothStartLoadPhase, LiftOff, Replace and BothReleased
+
+The dataset collection process is shown below.
+https://user-images.githubusercontent.com/38180831/207253198-36e50b82-1d8b-4ad6-a854-4617df5e9056.mp4
 
 Download the dataset here: [Grasp-and-Lift EEG Detection](https://www.kaggle.com/competitions/grasp-and-lift-eeg-detection/data)
 
