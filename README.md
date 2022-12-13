@@ -53,6 +53,11 @@ Download the dataset here: [Grasp-and-Lift EEG Detection](https://www.kaggle.com
 The EEG data from three different electrodes are visualized below:
 ![image](https://user-images.githubusercontent.com/38180831/207249694-3473e787-21cb-4db4-987c-2d6e6ab7ce94.png)
 
+## Run
+1. Open Grasp-and-lift-ml.ipynb using Google colab, Jupyter Notebook or other supporting ipynb editor. 
+2. Download the data and load it
+3. Run the cells sequentially
+
 ## Model Performances
 The following table compares the area under the Receiver operating characteristic (ROC) curve on the train and test dataset. 
 ![image](https://user-images.githubusercontent.com/38180831/207251070-329e5aa7-1473-4491-90b8-9129844e0649.png)
