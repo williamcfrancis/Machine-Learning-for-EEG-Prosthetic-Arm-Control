@@ -53,7 +53,7 @@ The EEG data from three different electrodes are visualized below:
 The following table compares the area under the Receiver operating characteristic (ROC) curve on the train and test dataset. 
 ![image](https://user-images.githubusercontent.com/38180831/207251070-329e5aa7-1473-4491-90b8-9129844e0649.png)
 
-All the models were tested and the results were uploaded to the [kaggle competition](https://www.kaggle.com/competitions/grasp-and-lift-eeg-detection/overview) on this dataset. The resulting scores obtained the models are compared below:
+All the models were tested and the results were uploaded to the [Kaggle competition](https://www.kaggle.com/competitions/grasp-and-lift-eeg-detection/overview) on this dataset. The resulting scores obtained the models are compared below:
 
 ![image](https://user-images.githubusercontent.com/38180831/207251882-74acf500-a754-44a8-95c8-49c3d704cfea.png)
 
