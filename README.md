@@ -5,7 +5,8 @@ For a complete report of the project with ablation study and design details, ple
 ## Overview
 Certain hand movements like grasping, lifting or replacing an object create unique identifiable artifacts in the EEG signals. Learning these patterns using machine learning techniques open the gates to using them as control inputs for a robotic prosthetic arm. 
 
-We experimented with three data pre processing techniques for EEG signals: 
+We experimented with three data pre-processing techniques for EEG signals: 
+
 * Butter low pass filtering
 * Wavelet denoising
 * Stacking butter low pass filters 
@@ -17,15 +18,15 @@ Further, we experimented with different classification models:
 * Random Forest
 * Linear Discriminant Analysis
 * Quadratic Discriminant Analysis
+* PCA with Random Forest
 
-We tried 3 different weighted ensembles of these traditional models as well.
+We designed three weighted ensembles of these traditional models:
 
-* PCA + Random Forests
-* Linear Discriminant Analysis + Random Forest + Logistic Regression
+* Linear Discriminant Analysis (0.4 %) + Random Forest (0.35 %) + Logistic Regression (0.25 %)
 * Linear Discriminant Analysis + Logistic Regression
 * Random Forest + Logistic Regression + Quadratic Discriminant Analysis + Linear Discriminant Analysis
 
-And finally, we used a deep learning technique,
+And finally, a deep learning technique,
 
 * Convolutional Neural Networks
 
