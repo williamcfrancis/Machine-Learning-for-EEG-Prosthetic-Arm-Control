@@ -54,7 +54,7 @@ The EEG data from three different electrodes are visualized below:
 ![image](https://user-images.githubusercontent.com/38180831/207249694-3473e787-21cb-4db4-987c-2d6e6ab7ce94.png)
 
 ## Run
-1. Open Grasp_and_Lift_ML.ipynb using Google colab, Jupyter Notebook or other supporting ipynb editor. 
+1. Open [Grasp_and_Lift_ML.ipynb](https://github.com/williamcfrancis/Grasp-and-Lift-EEG-Detection-using-ML-algorithms/blob/main/Grasp_and_Lift_ML.ipynb) using Google colab, Jupyter Notebook or other supporting ipynb editor. 
 2. Download the data and load it
 3. Run the cells sequentially
 
