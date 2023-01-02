@@ -1,4 +1,4 @@
-# Grasp and Lift EEG Detection
+# Machine Learning for Prosthetic Arm Control with EEG Data
 
 ## Overview
 Certain hand movements like grasping, lifting or replacing an object create unique identifiable artifacts in the EEG signals. 
