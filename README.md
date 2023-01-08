@@ -1,4 +1,4 @@
-# Machine Learning for Prosthetic Arm Control with EEG Data
+# Machine Learning for EEG Prosthetic Arm Control
 
 ## Overview
 In this project, we used machine learning techniques to detect hand movements, such as grasping and lifting, in EEG data. These hand movements can be used to control robotic prosthetic arms. We experimented with three data preprocessing techniques for EEG signals: butter low pass filtering, wavelet denoising, and stacking butter low pass filters. We also utilized various classification models, including Support Vector Machines, Logistic Regression, Random Forest, Linear Discriminant Analysis, Quadratic Discriminant Analysis, and Convolutional Neural Networks. We also designed weighted ensembles of traditional models to improve performance.
